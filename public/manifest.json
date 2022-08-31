@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "YouTube 2.0",
+  "name": "YouTube 2.0 - ILALEX",
+  "description": "Welcome to my YouTube Clone App made with using React",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,16 +11,18 @@
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x197"
     },
     {
       "src": "logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x524"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
+  "id": "/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#fc1503",
+  "background_color": "#fc1503",
+  "scope": "/"
 }
